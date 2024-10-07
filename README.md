@@ -1,1 +1,1 @@
-# Crime-Analysis
+This project focuses on the analysis and visualization of data in Python using PySpark, integrating SQL for enhanced understanding. By leveraging PySpark's capabilities, large datasets are processed efficiently, allowing for the performance of complex queries using SQL syntax. The project aims to extract meaningful insights from the data and present them through informative visualizations, enabling a clearer interpretation of trends and patterns.
